@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/repository/!svn/ver/6/trunk/Test
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repository/!svn/ver/6/trunk/Test/.cproject
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repository/!svn/ver/6/trunk/Test/.project
+END
